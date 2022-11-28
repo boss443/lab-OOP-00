@@ -1,2 +1,5 @@
 # lab-OOP-00
-this is my first irepo
+this is my first repo
+
+thanachok suwan
+65000000-1
