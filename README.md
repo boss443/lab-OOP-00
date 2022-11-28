@@ -2,4 +2,6 @@
 this is my first repo
 
 thanachok suwan
-65000000-1
+id 65000000-1
+
+phone 191
